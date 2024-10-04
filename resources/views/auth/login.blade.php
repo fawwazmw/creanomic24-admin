@@ -11,9 +11,10 @@
                 <div class="col-12 col-md-8 col-lg-6 col-xl-5 col-xxl-4 mx-auto">
                     <div class="card rounded-4">
                         <div class="card-body p-5">
-                            <img src="{{ URL::asset('build/images/logo1.png') }}" class="mb-4" width="145" alt="">
-                            <h4 class="fw-bold">Get Started Now</h4>
-                            <p class="mb-0">Enter your credentials to login your account</p>
+                            <img src="{{ URL::asset('build/images/logocrea1.png') }}" class="mb-4" width="145"
+                                alt="">
+                            <h4 class="fw-bold">Mulai Sekarang</h4>
+                            <p class="mb-0">Masukan data yang sudah anda daftarkan untuk login</p>
 
                             <div class="form-body my-4">
                                 <form class="row g-3">
@@ -48,7 +49,7 @@
                                     </div>
                                     <div class="col-12">
                                         <div class="text-start">
-                                            <p class="mb-0">Don't have an account yet? <a href="auth-basic-register">Sign
+                                            <p class="mb-0">Don't have an account yet? <a href="register">Sign
                                                     up here</a>
                                             </p>
                                         </div>
